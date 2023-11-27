@@ -1,0 +1,8 @@
+{
+  "name": "rosversion",
+  "description": "contro which version of ROS is used",
+  "uuid": "roversion@zieif.com",
+  "shell-version": [
+    "42"
+  ]
+}
